@@ -1,4 +1,4 @@
-### 👋 Hi there
+### 👋 introduce myself
 <p>
    I'm UI developer and currently looking for a job in korea.<br> 
    I'm enjoying reading and baduk.<br>
