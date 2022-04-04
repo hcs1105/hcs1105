@@ -6,7 +6,7 @@
 ### ⚓ Contact me
 <p>
   <a href="mailto:hcs1105@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hcs1105@gmail.com-ea4335?style=flat-round&logo=Gmail&logoColor=fff"></a>
-  <a href="https://www.linkedin.com/in/%EC%B0%BD%EC%88%98-%ED%95%9C-52a5905b/" target="_blank"><img src="https://img.shields.io/badge/hcs1105-0a66C2?style=flat-round&logo=Linkedin&logoColor=fff"></a>
+  <a href="https://www.linkedin.com/in/hcs1105" target="_blank"><img src="https://img.shields.io/badge/hcs1105-0a66C2?style=flat-round&logo=Linkedin&logoColor=fff"></a>
   <a href="https://www.facebook.com/changsu.han.18" target="_blank"><img src="https://img.shields.io/badge/hcs1105-00f?style=flat-round&logo=facebook&logoColor=fff"></a>
 </p>
 
