@@ -1,9 +1,7 @@
 ### 👋 Introduce myself
-<p>
-   I'm UI developer and currently looking for a job in korea.<br> 
-   I'm enjoying reading and baduk.<br>
-   I hope to develop every beautiful things.
-</p>
++ I'm UI developer and currently looking for a job in korea.
++ I'm enjoying reading and baduk.
++ I hope to develop every beautiful things.
 
 ### ⚓ Contact me
 <p>
