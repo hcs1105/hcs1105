@@ -2,6 +2,7 @@
 + I'm currently looking for a job in korea.
 + I'm enjoying reading and baduk.
 + I'm UI developer who wants to share simple stories with people with positive and small power.
++ View resumes and projects - https://github.com/hcs1105/resume
 
 ### ⚓ Contact me
 <p>
