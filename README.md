@@ -1,6 +1,7 @@
 ### 👋 Hi there
 <p>
-   I'm UI developer and currently looking for a job in korea. and I enjoy reading and baduk.<br>
+   I'm UI developer and currently looking for a job in korea.<br> 
+   I'm enjoying reading and baduk.<br>
    I hope to develop every beautiful things. ✨
 </p>
 
