@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/PHP-393?style=flat-round&logo=php&logoColor=fff">
 </p>
 
-### ✍️ Development Tools Tools and Version Control Tools
+### ✍️ Development Tools and Version Control Tools
 <p>
   <img src="https://img.shields.io/badge/Git-000?style=flat-round&logo=Git&logoColor=fff">
   <img src="https://img.shields.io/badge/Webpack-393?style=flat-round&logo=Webpack&logoColor=fff">
