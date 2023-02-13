@@ -1,7 +1,7 @@
 ### 👋 Introduce myself
 + I'm currently looking for a job in korea.
 + I'm enjoying reading and baduk.
-+ I'm UI & Frond-end Developer who wants to share simple stories with people with positive and small power.
++ I'm UI and Front-end Developer who wants to share simple stories with people with positive and small power.
 + View resumes and projects - https://github.com/hcs1105/resume
 
 ### ⚓ Contact me
@@ -28,12 +28,14 @@
   <img src="https://img.shields.io/badge/PHP-393?style=flat-round&logo=php&logoColor=fff">
 </p>
 
-### ✍️ Develop Tools
+### ✍️ Development Tools and Version Control Tools
 <p>
   <img src="https://img.shields.io/badge/Git-000?style=flat-round&logo=Git&logoColor=fff">
+  <img src="https://img.shields.io/badge/Webpack-393?style=flat-round&logo=Webpack&logoColor=fff">
   <img src="https://img.shields.io/badge/SourceTree-00f?style=flat-round&logo=sourcetree&logoColor=fff">
   <img src="https://img.shields.io/badge/Visual Studio Code-f05032?style=flat-round&logo=visualstudiocode&logoColor=fff">
   <img src="https://img.shields.io/badge/Eclipse-00f?style=flat-round&logo=eclipse&logoColor=fff">
+  <img src="https://img.shields.io/badge/Gulp-f05032?style=flat-round&logo=gulp&logoColor=fff">
 </p>
 
 <!--
