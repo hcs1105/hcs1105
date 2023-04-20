@@ -23,8 +23,10 @@
   <img src="https://img.shields.io/badge/ECMAScript-ea4335?style=flat-round&logo=javascript&logoColor=fff">
   <img src="https://img.shields.io/badge/jQuery-000?style=flat-round&logo=jQuery&logoColor=fff">
   <img src="https://img.shields.io/badge/React-02569B?style=flat-round&logo=React&logoColor=fff">
+  <!-- 
   <img src="https://img.shields.io/badge/Node.js-393?style=flat-round&logo=Node.js&logoColor=fff">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-round&logo=TypeScript&logoColor=fff">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-round&logo=TypeScript&logoColor=fff"> 
+  -->
   <img src="https://img.shields.io/badge/PHP-393?style=flat-round&logo=php&logoColor=fff">
 </p>
 
